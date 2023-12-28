@@ -1,0 +1,16 @@
+.active {
+    background: #81BAB4 !important;
+    color: white !important;
+}
+
+.gGVwAk {
+    padding:1rem 2rem;
+    color:#313131;
+    background:white;
+    border:2px solid #81BAB4;
+    border-radius:5px;
+    margin-left:1rem;
+    margin-bottom:2rem;
+    font-weight:600;
+    margin-top:2rem;
+  }
